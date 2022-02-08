@@ -1,2 +1,4 @@
 # quran
-Quran ayats
+Simple Quran Ayats application
+
+@author: t.me/Diyorbek_Ermamatov
